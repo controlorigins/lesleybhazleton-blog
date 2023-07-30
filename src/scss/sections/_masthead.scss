@@ -42,7 +42,9 @@ header.masthead {
         text-align: center;
 
         h1 {
-            font-size: 3rem;
+            white-space: nowrap; 
+            max-width: 100%;
+            font-size: .5rem;
         }
 
         .subheading {
